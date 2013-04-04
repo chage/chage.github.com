@@ -1,38 +1,13 @@
-<!doctype html>
-<html>
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>唧 Chage ~ 第五唧部落格(Git Blog)</title>
-	<link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<body>
-	<div id="container">
-		<header id="header">
-			<h1><a href="/">唧 Chage ~ 第五唧部落格(Git Blog)</a></h1>
-			<h5>There's always something needed to BE LOGGED.</h5>
-		</header>
-		<nav id="nav"></nav>
-		<div id="main">
-			<header>
-				<h1><a href="2013-01-06-new-start.html">正式開張</a></h1>
-				<small>By Chage on Jan 6, 2013</small>
-			</header>
-			<div class="content">
-				<p>是的，沒看錯，這算是確定版的 blog 了。</p>
-				<p>目前是純手工，從 domon 那抄了一些 style 過來。</p>
-				<p>然後還有很多需要加的，暫時懶了，用到時再加吧。也有一些日後新增文章的問題，不過這個也懶了。(喂) XD</p>
-				<p>舊的文章等日後收到資料後再想辦法放上來，不過在那之前這裡要有繼續寫比較重要。XD</p>
-				<p>&nbsp;</p>
-				<p>不知道哪天會對於純手工感到困擾，第一個想到的時間點，是跨過一年，改目錄存放方式時。另一個，應該是想換到別的 blog 系統時吧。XD</p>
-				<p>不過以我的產量，大概都不是太大的問題。(默)</p>
-				<p>&nbsp;</p>
-				<p>Anyway...很感謝有在這天看到這篇的人，還有一直在問我的 blog 進度的朋友 Orz</p>
-			</div>
-		</div>
-		<footer id="footer">
-			<p>Copyright © 2013, Chage Juan, All rights reserved.</p>
-		</footer>
-	</div>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+{% for post in site.posts %}
+<header>
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<small>By Chage on {{ post.date | date: "%b %d, %Y" }}</small>
+</header>
+<div class="content">
+	{{ post.content }}
+</div>
+{% endfor %}

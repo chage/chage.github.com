@@ -1,4 +1,4 @@
-html, body, h1, h5, p {
+html, body, h1, h5 {
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
@@ -18,9 +18,10 @@ a:hover {
 	text-decoration: none;
 }
 #container {
+	margin: 0 auto;
 	background-color: #FFFFFF;
 	border: 1px solid #E5E5E5;
-	width: 60%;
+	width: 830px;
 	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
