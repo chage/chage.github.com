@@ -2,7 +2,7 @@
 layout: post
 title: 輪轉的里程數
 ---
-![Mileage Restarted]({{ site.url }}/images/mileage-restarted.jpg)  
+![Mileage Restarted](http://blog.chage.cc/images/mileage-restarted.jpg)  
 雖然之前有在留意，不過想起來時果然還是跑過頭了。  
 這累計的里程數所有的位數都轉過了一圈，也就是超過了 10 萬公里了。  
 我 18 歲時家裡幫我買的這台車，售價是 5 萬左右，當時大概都這個價。（現在是 7 萬左右……有夠貴的）  
