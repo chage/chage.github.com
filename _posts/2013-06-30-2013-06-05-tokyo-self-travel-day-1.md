@@ -96,7 +96,7 @@ title: 2013-06-05 東京自由行 Day 1
 <a href="http://www.flickr.com/photos/chagejuan/9088494252/" title="IMG_6796 by 唧 chage, on Flickr"><img src="http://farm8.staticflickr.com/7394/9088494252_492ac1714f_z.jpg" width="640" height="480" alt="IMG_6796"></a>  
 聽說是排隊名店，不過外面卻沒什麼人，讓我不禁擔心了起來……  
 不過進到店裡，其實也約莫滿座。「店裡不少人，應該不會差到哪去吧」，抱著這樣的心情，總算是稍微平撫了不安。  
-<a href="http://www.flickr.com/photos/chagejuan/9088493250/" title="IMG_6799 by 唧 chage, on Flickr"><img src="http://farm3.staticflickr.com/2815/9088493250_c511a8e8b8_z.jpg" width="640" height="480" alt="IMG_6799"></a>
+<a href="http://www.flickr.com/photos/chagejuan/9088493250/" title="IMG_6799 by 唧 chage, on Flickr"><img src="http://farm3.staticflickr.com/2815/9088493250_c511a8e8b8_z.jpg" width="640" height="480" alt="IMG_6799"></a>  
 店裡的氣氛我很喜歡，雖然其實也沒什麼特別的設計，但我覺得不錯。  
 因為看不太懂日文，所以隨便點了碗看起來算是人氣商品的拉麵。  
 然後開始狂喝他的冰水，外面實在是有點熱，流了不少汗。  
