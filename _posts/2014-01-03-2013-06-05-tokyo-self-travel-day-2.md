@@ -112,7 +112,7 @@ XDXDXD
 三鷹站一走出來就會看到路標，最後走到公車站牌，看到站牌就知道沒走錯了。（握）  
 本來公車是要收費的，不過剛好收費的機器故障。（汗）  
 
-其實我提早了一個時段到，本來想偷渡進去的，不過被抓包了。（對不起我知錯了 m(_ _)m）  
+其實我提早了一個時段到，本來想偷渡進去的，不過被抓包了。（對不起我知錯了 Q_Q）  
 他們還很好心地跟我說，可以放我在我的票上時間的半小時前入場。  
 不過我實在也不想違規，總之就在外面晃了一下。  
 幸好旁邊就是井の頭恩賜公園，幸好我很愛閒逛，幸好不會麻煩到別人。  
@@ -188,7 +188,7 @@ XDXDXD
 就在這些那些的混亂疑問中，在東京車站裡左晃右逛。  
 就在想著「如果能按 TAB 有多好哇……」的時候，我看到一番街的路標。  
 順著走去，很快就看到「斑鳩」……  
-<iframe width="420" height="315" src="//www.youtube.com/embed/hnmWCmR6o7A" frameborder="0" allowfullscreen></iframe>  
+<iframe width="420" height="315" src="//www.youtube.com/embed/hnmWCmR6o7A" frameborder="0">    </iframe>  
 咳咳，抱歉，好像放錯圖了 XD  
 這個才對：  
 <a href="http://www.flickr.com/photos/chagejuan/9086285595/" title="IMG_7005 by 唧 chage, on Flickr"><img src="http://farm8.staticflickr.com/7397/9086285595_2565011d44_z.jpg" width="640" height="480" alt="IMG_7005"></a>  
