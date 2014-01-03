@@ -171,7 +171,7 @@ XDXDXD
 
 由於接下來沒什麼行程了，所以就試著走回車站。  
 結果就經過了來的時候搭公車而沒走到的「風的散步道」。  
-<a href="http://www.flickr.com/photos/chagejuan/9088508904/" title="IMG_6970 by 唧 chage, on Flickr"><img src="http://farm8.staticflickr.com/7301/9088508904_f0f2f86e3c_z.jpg" width="480" height="640" alt="IMG_6970"></a>  
+<a href="http://www.flickr.com/photos/chagejuan/9088508146/" title="IMG_6973 by 唧 chage, on Flickr"><img src="http://farm6.staticflickr.com/5509/9088508146_457c1a2156_z.jpg" width="640" height="480" alt="IMG_6973"></a>
 <a href="http://www.flickr.com/photos/chagejuan/9086289873/" title="IMG_6974 by 唧 chage, on Flickr"><img src="http://farm4.staticflickr.com/3729/9086289873_8d6aa41269_z.jpg" width="640" height="480" alt="IMG_6974"></a>  
 一切都是天意，雖然是很無謂的事情，不過蠻高興的。  
 
