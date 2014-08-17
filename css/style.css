@@ -63,3 +63,13 @@ a:hover {
 #footer {
 	margin: 1em;
 }
+.plurk-qualifier {
+	padding: 0 3px;
+	color: #fff;
+	margin: 0 3px;
+	background-color: #e2560b;
+}
+.plurk-time {
+	color: #9f9f9f;
+	font-size: .75em;
+}
