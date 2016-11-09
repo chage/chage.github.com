@@ -19,14 +19,14 @@ PHP
   
 Xdebug 安裝完後就會在 `/usr/local/etc/php/<php-version>/conf.d/` 有個 `ext-xdebug.ini`  
 在裡面加上 Xdebug 的參數設定  
-```  
+  
 [xdebug]  
 zend_extension="/usr/local/opt/php56-xdebug/xdebug.so"  
 xdebug.remote_autostart=1  
 xdebug.remote_enable=1  
 xdebug.remote_host=localhost  
 xdebug.remote_port=9000  
-```  
+  
 remote_autostart 是讓 request 進來時，都會去觸發 Xdebug。  
 如果不設 autostart，那就要在 request 後面加上 `?XDEBUG_SESSION_START=1` 呼叫一次。這會讓 Xdebug 知道這個連線需要執行 Xdebug，並記錄到 cookie 裡。  
 remote_host 這裡設 localhost，是因為我在本機跑。  
@@ -39,10 +39,10 @@ Vim
 [Vdebug](https://github.com/joonty/vdebug/) 是 Vim 的 plugin，支援 DBGP。  
 我用的 plugin manager 是 Pathogen，所以只要 `# git clone https://github.com/joonty/vdebug.git ~/.vim/bundle/vdebug` 就安裝好了。  
 然後在 `.vimrc` 裡加上以下設定  
-```  
+  
 let g:vdebug_options = {'port': '9000'}  
 let g:vdebug_options = {'break_on_open': 0}  
-```  
+  
 port 就是對應 PHP 那設定的 remote_port。  
 不過我一開始設定完後，一直無沒正確觸發 Vdebug 的除錯畫面。弄了很久才發現原來是 port 9000 被我之前設定的 PHP-FPM 給佔住了 Orz  
 後來把 port 移到 10000（修改 PHP 及 Vim 的設定）就好了  
