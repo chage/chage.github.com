@@ -68,7 +68,7 @@ $ BUILD_JDBC=1 make
             if (os_arch_detect.equals("x86_64") || os_arch_detect.equals("amd64")) {
                 os_arch = "amd64";
             }
-			if (os_arch_detect.equals("aarch64")) {
+            if (os_arch_detect.equals("aarch64")) {
                 os_arch = "amd64";
             }
             // TODO 32 bit gunk
@@ -83,7 +83,7 @@ $ BUILD_JDBC=1 make
             String lib_res_name = "/libduckdb_java.so" + "_" + os_name + "_" + os_arch;
 ```
 重新再編譯一次後，得到新的 `duckdb_jdbc.jar` 更名放至 `~/.m2/repository/org/duckdb/duckdb_jdbc/0.2.5/duckdb_jdbc-0.2.5.jar`  
-（我的環境抓的 duckdb driver 版號是 0.2.5，不過我是抓最新的程式來編）  
+（我的環境抓的 duckdb driver 版號是 0.2.5，不過我是抓最新的 source code 來編）  
 然後重啟 REPL 就可以查詢了，喔耶～  
   
 終於可以開始工作了……（攤）  
